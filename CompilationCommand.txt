@@ -1,0 +1,30 @@
+
+break Matrix::Matrix 
+break Matrix::setData 
+break Matrix::multiply
+run 
+next
+next
+print rows
+print cols
+continue 
+next 
+next 
+print rows
+print cols
+continue
+continue
+continue
+next
+next
+next
+next
+next
+next
+next
+next
+next
+next
+print (int)result.data[0][0]
+continue
+quit
